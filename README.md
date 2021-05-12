@@ -1,2 +1,4 @@
 # A.I.-social-inclusion
-nos enfocamos en reflexionar cómo  la I.A. que pueda permitir el desarrollo de contextos de inclusión para personas como Luisa, quien es sordomuda y trans.
+Project of the exhibition "The world in the cloud" The objective of the project was to reflect on how the I.A. that can allow the development of inclusion contexts for people like Luisa, who is deaf and trans.
+https://elmui.online/2021/02/25/ia/
+
